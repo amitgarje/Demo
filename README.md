@@ -1,3 +1,4 @@
 # Demo
 This is my first project
-Auhtor- Amit Garje
+<br>
+<h1>Auhtor- Amit Garje</h1>
